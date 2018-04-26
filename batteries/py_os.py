@@ -38,4 +38,4 @@ print(b)
 print(os.path.split(os.getcwd()))
 
 #把文件的后缀和前面分开
-print(os.path.splitext('haha.py'))
+print(os.path.splitext('test.py'))
